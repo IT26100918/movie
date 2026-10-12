@@ -10,4 +10,5 @@ public class Movie2Application {
         SpringApplication.run(Movie2Application.class, args);
     }
 
-}
+}gjgjg
+
